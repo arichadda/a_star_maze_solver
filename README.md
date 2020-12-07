@@ -1,5 +1,4 @@
-# README.md 
-### A* Maze Solver
+# README.md for A* Maze Solver
 
 ### Introduction:
 
